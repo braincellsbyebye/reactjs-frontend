@@ -1,6 +1,40 @@
+## Hippo Campus React JS
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211194580-0039489c-4846-4cdf-a340-ccd03b40acee.jpg" width="250" alt="accessibility text"></td>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211189333-d36b4e09-1948-4a3b-8160-3d5ee3dba0fa.png" width="250" alt="accessibility text"></td>
+  </tr>
+</table>
 
+HippoCampus is a web and mobile application that allows management of a clinic in a university setting.
+This repository contains the front-end code of the HippoCampus project, the framework that was used in this project is ReactJS and is connected to the Laravel 
+backend framework through API.
 
-# Getting Started with Create React App
+Features:
+  - CRUD of Medical Data
+  - Management of Appointments
+  - Management of Medical Certificates
+  
+Note: it will not work without the backend framework. Please refer to this repository (https://github.com/braincellsbyebye/capstonebackend) 
+Screenshots:
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195577-229363ee-e0bb-42eb-998b-309fb6d39be1.jpg" height="300" width="850" alt="accessibility text"></td>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195580-ea7bd08b-aa33-42c1-9fc7-d83f1e560eda.jpg" height="300" width="850" alt="accessibility text"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195938-461f13a7-354f-418f-8296-5b8eab2dddb5.jpg" height="300" width="850" alt="accessibility text"></td>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195940-cae2cb89-0117-44cf-8b68-685da649bdd4.jpg" height="300" width="850" alt="accessibility text"></td>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195941-cc27377f-811c-4897-98c7-dd5ce48e2b2a.jpg" height="300" width="850" alt="accessibility text"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195997-e9652063-c33d-42ad-93cb-0f595b164bd3.jpg" height="300" width="850" alt="accessibility text"></td>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195995-e12ce3f8-09dc-48ea-8c35-c0827a76b752.jpg" height="300" width="850" alt="accessibility text"></td>
+    <td><img src="https://user-images.githubusercontent.com/101308694/211195996-a4d190a0-68cc-4875-88c3-af21563b532d.jpg" height="300" width="850" alt="accessibility text"></td>
+  </tr>
+</table>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
