@@ -1,11 +1,3 @@
-HippoCampus React Native
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/101308694/211161403-8aa04232-a733-44d9-bb7c-edd6613a102a.png" width="250"></td>
-    <td><img src="https://user-images.githubusercontent.com/101308694/211161320-2bb46c3e-b80a-4039-b7f2-1b40879c6ae4.jpg" width="250"></td>
-  </tr>
-</table>
-
 
 
 # Getting Started with Create React App
