@@ -30,6 +30,11 @@ After Download, Install
 npm install
 ```
 
+After Download, Install
+```sh
+npm start
+```
+
 Screenshots:
 <table>
   <tr>
